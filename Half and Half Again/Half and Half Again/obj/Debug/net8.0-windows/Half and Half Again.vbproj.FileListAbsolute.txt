@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\bin\Debug\net8.0-windows\Half and Half Again.exe
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\bin\Debug\net8.0-windows\Half and Half Again.deps.json
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\bin\Debug\net8.0-windows\Half and Half Again.runtimeconfig.json
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\bin\Debug\net8.0-windows\Half and Half Again.dll
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\bin\Debug\net8.0-windows\Half and Half Again.pdb
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half_and_Half_Again.Form1.resources
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.dll
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\refint\Half and Half Again.dll
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.pdb
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\Half and Half Again.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\half-and-half-again\Half and Half Again\Half and Half Again\obj\Debug\net8.0-windows\ref\Half and Half Again.dll
